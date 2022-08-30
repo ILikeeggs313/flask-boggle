@@ -1,0 +1,18 @@
+body{
+    background-image: linear-gradient(to right,#74ebd5, #acb6e5);
+}
+.board{
+    border: 1px solid blue;
+    font-family: sans-serif;
+    font-size: 100%;
+    position: relative;
+}
+.board td{
+    text-align: center;
+    width: 1.5rem;
+}
+.msg{
+    padding: 15ms;
+    text-decoration: none;
+
+}
